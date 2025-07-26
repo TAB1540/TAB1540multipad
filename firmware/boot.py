@@ -43,8 +43,8 @@ keyboard.extensions.append(rgb)
 
 
 # OLED display
-keyboard.SCL=board.GP29
-keyboard.SDA=board.GP28
+keyboard.SCL=board.D5
+keyboard.SDA=board.D4
 
 oled_ext = Oled(
     OledData(
