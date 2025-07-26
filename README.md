@@ -17,7 +17,7 @@ TAB1540multipad is a 9 key macropad with 1 rotary encoder, an OLED Display. It a
 Everything fits together using 4 M3 Bolts. 
 Case is made from 2 parts.
  
-![cad demo](assets/cad.png?raw=true "cad demo")
+![cad demo](https://github.com/TAB1540/TAB1540multipadv1.1/blob/main/assets/cad.png?raw=true "cad demo")
 
 Designed using freeCAD 1.0.1 (first time for me)
 ## PCB
@@ -26,11 +26,11 @@ This is my PCB, which was made in KiCad.
 
 PCB
 
-![pcb](assets/pcb.png?raw=true "pcb")
+![pcb](https://github.com/TAB1540/TAB1540multipadv1.1/blob/main/assets/pcb.png?raw=true "pcb")
 
 Schematic
 
-![schematic](assets/schematic.png?raw=true "schematic")
+![schematic](https://github.com/TAB1540/TAB1540multipadv1.1/blob/main/assets/schematic.png?raw=true "schematic")
 ## Firmware Overview
 
 This hackpad uses KMK firmware for maybe everything
